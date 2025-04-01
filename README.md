@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dushmantha Herath</h1>
 <h3 align="center">Passionate SE Student | Front-end Developer | UI Designer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="DushmanthaHerath1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DushmanthaHerath19&label=Profile%20views&color=0e75b6&style=flat" alt="DushmanthaHerath1" /> </p>
 
 <table align="center">
 <tr border="none">
