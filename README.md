@@ -17,7 +17,7 @@ I am a **Bachelor of Software Engineering (Hons)** undergraduate at the Open Uni
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,java,html,css,tailwind,nodejs,mysql,postgresql,php,python,figma,git,github,postman" width = "40px"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,java,html,css,tailwind,nodejs,mysql,postgresql,php,python,figma,git,github,postman" width = "400px" "/>
 </p>
 
 ---
