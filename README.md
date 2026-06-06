@@ -6,8 +6,8 @@ I am a **Bachelor of Software Engineering (Hons)** undergraduate at the Open Uni
 
 ### 🚀 About Me
 
-- 💻 **Currently working on:** [MediConnect](https://github.com/DushmanthaHerath1/MediConnect) (A web-based healthcare management system).
-- 🛠️ **Tech Stack:** Proficient in **React, Vue.js (Quasar), and Java**.
+- 💻 **Currently working on:** Improving my techs-tack.
+- 🛠️ **Tech Stack:** Proficient in **Vite + React, Tailwindcss, Python, FastAPI, PostgreSQL**.
 - 🔍 **Looking for:** Software Engineering Internship opportunities to apply my technical skills in a professional environment.
 - 🌱 **Learning:** Deepening my knowledge in Backend architecture and Micro-SaaS development.
 - ✉️ **Reach me at:** [neo.dushmantha@gmail.com](mailto:neo.dushmantha@gmail.com)
@@ -17,7 +17,7 @@ I am a **Bachelor of Software Engineering (Hons)** undergraduate at the Open Uni
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,java,html,css,tailwind,nodejs,mysql,postgresql,php,python,figma,git,github,postman" width = "400px" "/>
+  <img src="https://skillicons.dev/icons?i=vite,react,tailwind,python,fastapi,postgresql,figma,git,github" width = "400px" "/>
 </p>
 
 ---
