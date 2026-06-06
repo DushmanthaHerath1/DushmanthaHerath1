@@ -25,7 +25,7 @@ I am a **Bachelor of Software Engineering (Hons)** undergraduate at the Open Uni
 ### 📊 My GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DushmanthaHerath1&theme=dark&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DushmanthaHerath1&theme=dark&show_icons=true" />
   <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DushmanthaHerath1&theme=dark&layout=compact" />
 </p>
 
