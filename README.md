@@ -1,48 +1,49 @@
-# Hi there! I'm Dushmantha Herath 👋
-
-I am a **Bachelor of Software Engineering (Hons)** undergraduate at the Open University of Sri Lanka, currently in my second year. I specialize in **Front-end Development** and **UI/UX Design**, with a strong focus on building scalable and user-centric web applications.
-
----
-
-### 🚀 About Me
-
-- 💻 **Currently working on:** Improving my techs-tack.
-- 🛠️ **Tech Stack:** Proficient in **Vite + React, Tailwindcss, Python, FastAPI, PostgreSQL**.
-- 🔍 **Looking for:** Software Engineering Internship opportunities to apply my technical skills in a professional environment.
-- 🌱 **Learning:** Deepening my knowledge in Backend architecture and Micro-SaaS development.
-- ✉️ **Reach me at:** [neo.dushmantha@gmail.com](mailto:neo.dushmantha@gmail.com)
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,react,tailwind,python,fastapi,postgresql,figma,git,github" width = "400px" "/>
-</p>
-
----
-
-### 📊 My GitHub Statistics
+<h1 align="center">Hi, I'm Dushmantha Herath 👋</h1>
+<h3 align="center">Software Engineering Undergraduate · Applied AI Enthusiast</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DushmanthaHerath1&theme=dark&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DushmanthaHerath1&theme=dark&layout=compact" />
+  Building at the intersection of full-stack engineering and applied AI,<br/>
+  turning language models into systems that actually do things.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DushmanthaHerath1&theme=dark" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+## About Me
 
-### 🤝 Connect with me
+I'm a Software Engineering undergraduate with a growing focus on **Applied AI Engineering** — designing and building systems that use LLMs and agentic workflows to solve real problems, backed by solid full-stack fundamentals.
 
-<p align="left">
-<a href="https://linkedin.com/in/neo-dushmantha" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:neo.dushmantha@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+- 🎓 Software Engineering student
+- 🧠 Exploring AI agents, RAG pipelines, and LLM orchestration
+- 🛠️ Comfortable across the stack — from UI to API to database
+- 📍 Always learning, always shipping something small on the side
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DushmanthaHerath19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<br/>
+
+## Tech Stack
+
+**Languages & Core**
+`Python` · `JavaScript`
+
+**Frontend**
+`Vite` · `React` · `Tailwind CSS`
+
+**Backend & Data**
+`FastAPI` · `PostgreSQL`
+
+**AI / Applied AI**
+`LangChain` · `LangGraph` · `RAG (Retrieval-Augmented Generation)`
+
+**Tools**
+`Figma` · `VS Code`
+
+<br/>
+
+## Connect
+
+- 🌐 Portfolio — [dushmantha.vercel.app](https://dushmantha.vercel.app/)
+- 💼 LinkedIn — [linkedin.com/in/neo-dushmantha](https://linkedin.com/in/neo-dushmantha)
+- ✉️ Email — [hmt.dushmantha@gmail.com](mailto:hmt.dushmantha@gmail.com)
+
+<br/>
+
+<p align="center"><i>Currently focused on: turning "it works on my machine" into "it reasons on its own."</i></p>
